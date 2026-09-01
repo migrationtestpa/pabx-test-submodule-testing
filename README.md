@@ -1,5 +1,1 @@
 # pabx-test
-
-
-
-test
